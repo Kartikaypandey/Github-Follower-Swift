@@ -1,8 +1,8 @@
 //
-//  ErrorMessages.swift
+//  GFError.swift
 //  GithubFollower
 //
-//  Created by Kartikay Pandey on 01/03/23.
+//  Created by Kartikay Pandey on 26/03/23.
 //
 
 import Foundation
